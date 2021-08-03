@@ -29,6 +29,6 @@ content_location: example-location
 
 In dit leerpad ga je uitgedaagd worden om zelf een tekenrobot te bouwen en te programmeren!
 
-![Voorbeeld Tekenrobot](@youtube/https://www.youtube.com/embed/w-s2-Vn-OTs "Voorbeeldvideo tekenrobot")
+![](@youtube/https://www.youtube.com/embed/w-s2-Vn-OTs)
 
 Voor je hiermee aan de slag kunt, zal je wel eerst enkele supertoffe opdrachten moeten doen om je een beter idee te geven over hoe je het moet aanpakken. Veel plezier! 

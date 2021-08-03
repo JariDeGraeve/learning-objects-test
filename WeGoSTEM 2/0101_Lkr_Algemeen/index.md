@@ -27,7 +27,7 @@ content_location: example-location
 
 # WEGoSTEM?
 
-![Intro WeGoSTEM](@youtube/https://www.youtube.com/embed/RqyxGvzavCw "Introductie WeGoSTEM")
+![](@youtube/https://www.youtube.com/embed/RqyxGvzavCw)
 
 WeGoSTEM bundelt een aantal interessante activiteiten die je op twee lesuren kan realiseren in de klas. De activiteiten omvatten vijf verschillende stappen:
 
