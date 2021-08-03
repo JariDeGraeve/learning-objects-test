@@ -1,5 +1,5 @@
 ---
-hruid: Doel: Wat is een Robot?-v1.0.0
+hruid: "Doel: Wat is een Robot?-v1.0.0"
 version: 1
 language: nl
 title: "Doel: Wat is een robot?"
