@@ -2,7 +2,7 @@
 hruid: "ET: Wat is een Robot?-v1.0.0"
 version: 1
 language: nl
-title: ET: Wat is een robot?
+title: "ET: Wat is een robot?"
 description: Lijst eindtermen
 keywords: [voorbeeld, voorbeeld2]
 educational_goals: [

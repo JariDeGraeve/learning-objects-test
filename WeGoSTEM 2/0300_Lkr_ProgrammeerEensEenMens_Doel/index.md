@@ -2,7 +2,7 @@
 hruid: "Doel: Programmeer eens een mens-v1.0.0"
 version: 1
 language: nl
-title: Doel: Programmeer eens een mens
+title: "Doel: Programmeer eens een mens"
 description: beschrijving van de activiteit
 keywords: [voorbeeld, voorbeeld2]
 educational_goals: [

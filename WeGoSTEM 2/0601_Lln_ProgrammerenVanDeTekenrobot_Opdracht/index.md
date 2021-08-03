@@ -27,4 +27,4 @@ content_location: example-location
 
 Na de oefeningen in de simulator ben je in staat om de tekenrobot te programmeren. Programmeer nu zelf de robot zodat deze een mooie tekening maakt. Is er nog iets onduidelijk? Bekijk dan het volgende filmpje:
 
-![Programmeer een robot](@youtube/https://www.youtube.com/embed/zQ22ZWX64mU "Programmeer een robot")
+![](@youtube/https://www.youtube.com/embed/zQ22ZWX64mU )
