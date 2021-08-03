@@ -2,7 +2,7 @@
 hruid: "Doel: Programmeren van de tekenrobot-v1.0.0"
 version: 1
 language: nl
-title: Doel: Programmeren van de tekenrobot
+title: "Doel: Programmeren van de tekenrobot"
 description: Beschrijving van de activiteit
 keywords: [voorbeeld, voorbeeld2]
 educational_goals: [
