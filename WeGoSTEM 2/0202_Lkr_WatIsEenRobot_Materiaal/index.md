@@ -1,8 +1,8 @@
 ---
-hruid: Materiaal: Wat is een Robot?-v1.0.0
+hruid: "Materiaal: Wat is een Robot?-v1.0.0"
 version: 1
 language: nl
-title: Materiaal: Wat is een robot?
+title: "Materiaal: Wat is een robot?"
 description: Beschrijving materiaal
 keywords: [voorbeeld, voorbeeld2]
 educational_goals: [
