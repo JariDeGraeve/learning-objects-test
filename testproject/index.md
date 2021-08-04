@@ -1,5 +1,5 @@
 ---
-hruid: voorbeeld-v1.1.16
+hruid: voorbeeld-v2.0.0
 version: 3
 language: nl
 title: This is a title
@@ -24,11 +24,6 @@ return_value: {
 }
 content_location: example-location
 ---
-
-# Dit is les 2
-[Klik hier om de vorige les te bekijken](@learning-object/6103f4c4405e137f9cc44adb "Les 1")
-
-## Deel 2.1
 
 Om deze les beginnen, zal je eerst deze video moeten bekijken:
 
