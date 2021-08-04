@@ -1,5 +1,5 @@
 ---
-hruid: voorbeeld-v2.0.7
+hruid: voorbeeld-v2.0.8
 version: 3
 language: nl
 title: This is a title
