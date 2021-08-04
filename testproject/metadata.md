@@ -2,7 +2,7 @@
 hruid: voorbeeld-v2.0.8
 version: 3
 language: nl
-title: This is a title
+title: This is a titlee
 description: This is a description
 keywords: [voorbeeld, voorbeeld2]
 educational_goals: [
