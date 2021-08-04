@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="setup_loop_structure" id="bov#5jTSj!u6z3/}Emy|" x="10" y="10"><statement name="LOOP"><block type="controls_if" id="95;v.PR]q3j-bY0H-A9{"><value name="IF0"><block type="logic_compare" id="@ct6HD|qY_,ENVZ2tOE6"><field name="OP">EQ</field></block></value></block></statement></block></xml>
