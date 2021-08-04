@@ -1,5 +1,5 @@
 ---
-hruid: voorbeeld-v2.0.1
+hruid: voorbeeld-v2.0.2
 version: 3
 language: nl
 title: This is a title
@@ -27,12 +27,8 @@ content_location: example-location
 
 Om deze les beginnen, zal je eerst deze video moeten bekijken:
 
-![840px, 630px](@youtube/https://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/What%20is%20the%20Jupyter%20Notebook.ipynb)
 
-![840px, 630px](@youtube/https://github.com/odewahn/ipynb-examples/blob/master/Animations%20Using%20clear_output.ipynb)
-
-
-![840px, 630px](@youtube/https://cantera.org/examples/jupyter/thermo/flame_temperature.ipynb)
+![840px, 630px](@notebook/https://cantera.org/examples/jupyter/thermo/flame_temperature.ipynb)
 
 
 
