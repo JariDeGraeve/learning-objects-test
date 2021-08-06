@@ -1,1 +1,0 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="controls_whileUntil" id="/A/CB_cS_yvDDD5R(:%#" x="12" y="-49"><field name="MODE">WHILE</field><value name="BOOL"><block type="logic_compare" id="LlwDMihBL*s.qW|5$/Np"><field name="OP">EQ</field></block></value></block></xml>
