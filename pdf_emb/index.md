@@ -26,5 +26,5 @@ content_location: example-location
 estimated_time: 20
 ---
 
-[pdf](@pdf/vergadering.pdf "dit is een pdf")
-![](@pdf/vergadering.pdf)
+[pdf](@pdf/pdfs/vergadering.pdf "dit is een pdf")
+![](@pdf/pdfs/vergadering.pdf)
