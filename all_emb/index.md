@@ -25,43 +25,46 @@ return_value: {
 content_location: content/location/http
 ---
 
-# Test
-
-
-
-[Dit is een link](momo.mp3 "Dit is de titel")
-
-# Titel
+# yt
 
 ![](@youtube/https://www.youtube.com/embed/dQw4w9WgXcQ)
 
+# link pdf
+
 [Vergadering pdf!](vergadering.pdf)
 
+# link audio
 
 [Momo!](momo.mp3)
 
+# link yt
 
 [Ricky!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+# pdf
 
 ![](@pdf/vergadering.pdf)
 
+# blocks
 
-![](@dwengo/blocks.xml)
+![](@blockly/blocks.xml)
 
 # Jupyter notebook
 
 ![](@notebook/https://www.cantera.org/examples/jupyter/thermo/flame_temperature.ipynb)
 
 
+# audio
+
 ![](@audio/momo.mp3)
 
 
-![](@youtube/https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+# link leerobj
 
 [link](@learning-object/61095afee86675212fd03da7 "dit is een leerobject")
 
 
+# leerobj
 ![](@learning-object/61095afee86675212fd03da7 )
 
 
