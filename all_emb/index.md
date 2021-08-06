@@ -27,7 +27,7 @@ content_location: content/location/http
 
 # yt
 
-![](@youtube/https://www.youtube.com/embed/dQw4w9WgXcQ)
+![](@youtube/https://www.youtube.com/embed/fNFzfwLM72c)
 
 # link pdf
 
