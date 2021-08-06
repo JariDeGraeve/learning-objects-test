@@ -43,11 +43,11 @@ content_location: content/location/http
 
 # pdf
 
-![](@pdf/vergadeing.pdf)
+![](@pdf/vergadering.pdf)
 
 # blocks
 
-![](@blockly/bloks.xml)
+![](@blockly/blocks.xml)
 
 # Jupyter notebook
 
@@ -56,7 +56,7 @@ content_location: content/location/http
 
 # audio
 
-![](@audio/moo.mp3)
+![](@audio/momo.mp3)
 
 
 # link leerobj
