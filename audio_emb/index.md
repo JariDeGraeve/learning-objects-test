@@ -26,4 +26,4 @@ content_location: example-location
 ---
 
 [audio](momo.mp3 "dit is momo")
-![](momo.mp3)
+![](@audio/momo.mp3)
