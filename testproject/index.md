@@ -11,7 +11,7 @@ educational_goals: [
 ]
 copyright: Copyright by Jerro
 licence: Licenced by Jerro
-content_type: blockly
+content_type: text/markdown
 available: true
 target_ages: [4, 3]
 difficulty: 3
@@ -24,3 +24,10 @@ return_value: {
 }
 content_location: example-location
 ---
+
+
+# Hallo
+[klik hier voor blokken](blocks.xml "Blockly")
+
+## Dit zou het moeten zijn:
+![](@blockly/blocks.xml)
