@@ -23,6 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
+estimated_time: 20
 ---
 
 [audio](momo.mp3 "dit is momo")
