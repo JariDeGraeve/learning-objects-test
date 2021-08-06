@@ -1,5 +1,5 @@
 ---
-hruid: voorbeeld-v2.0.8
+hruid: test-v3
 version: 3
 language: nl
 title: This is a titlee
@@ -25,9 +25,5 @@ return_value: {
 content_location: example-location
 ---
 
-
-# Hallo
-[klik hier voor blokken](blocks.xml "Blockly")
-
-## Dit zou het moeten zijn:
-![](@blockly/blocks.xml)
+[audio](momo.mp3 "dit is momo")
+![](momo.mp3)
