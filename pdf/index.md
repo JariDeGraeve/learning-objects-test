@@ -26,7 +26,7 @@ content_location: http://content.be/learn
 estimated_time: 20
 ---
 
-# Nieuwere versie!
+# Nieuwste versie
 
 [pdf](@pdf/pdfs/ver/vergadering.pdf "dit is een pdf")
 ![](@pdf/pdfs/ver/vergadering.pdf)
