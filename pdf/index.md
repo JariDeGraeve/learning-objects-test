@@ -1,6 +1,6 @@
 ---
 hruid: test-v8
-version: 3
+version: 4
 language: nl
 title: This is a title
 description: This is a description
@@ -22,7 +22,7 @@ return_value: {
         att2: test2
     }
 }
-content_location: example-location
+content_location: http://content.be/learn
 estimated_time: 20
 ---
 

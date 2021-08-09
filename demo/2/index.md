@@ -22,7 +22,7 @@ return_value: {
         att2: test2
     }
 }
-content_location: example-location
+content_location: http://content.be/learn
 estimated_time: 10
 ---
 
