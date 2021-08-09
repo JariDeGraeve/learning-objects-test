@@ -26,7 +26,7 @@ content_location: example-location
 estimated_time: 20
 ---
 
-# Nieuw
+# Nieuwere versie!
 
 [pdf](@pdf/pdfs/ver/vergadering.pdf "dit is een pdf")
 ![](@pdf/pdfs/ver/vergadering.pdf)

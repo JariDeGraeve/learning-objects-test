@@ -1,6 +1,6 @@
 ---
 hruid: "Opdracht: Bouwen van een tekenrobot-v1.0.0"
-version: 1
+version: 2
 language: nl
 title: Bouwen van een tekenrobot
 description: Tijdens deze activiteit gaan de leerlingen aan de slag met het materiaal en monteren ze de robotarm.
