@@ -23,6 +23,7 @@ return_value: {
     }
 }
 content_location: example-location
+estimated_time: 10
 ---
 
 # Bouwen van een tekenrobot
