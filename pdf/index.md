@@ -2,7 +2,7 @@
 hruid: test-v8
 version: 3
 language: nl
-title: This is a titlee
+title: This is a title
 description: This is a description
 keywords: [voorbeeld, voorbeeld2]
 educational_goals: [
@@ -25,6 +25,8 @@ return_value: {
 content_location: example-location
 estimated_time: 20
 ---
+
+# Nieuw
 
 [pdf](@pdf/pdfs/ver/vergadering.pdf "dit is een pdf")
 ![](@pdf/pdfs/ver/vergadering.pdf)
