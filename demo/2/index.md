@@ -24,6 +24,10 @@ return_value: {
 }
 content_location: http://content.be/learn
 estimated_time: 10
+skos_concepts: [
+    'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
+    'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
+]
 ---
 
 # Bouwen van een tekenrobot
