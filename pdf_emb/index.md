@@ -1,6 +1,6 @@
 ---
 hruid: test-v7
-version: 4
+version: 5
 language: nl
 title: This is a title
 description: This is a description
@@ -25,6 +25,6 @@ return_value: {
 content_location: example-location
 estimated_time: 20
 ---
-# ook vernieuwd!
+# ook vernieuwd! (en nu helemaal)
 [pdf](@pdf/pdfs/vergadering.pdf "dit is een pdf")
 ![](@pdf/pdfs/vergadering.pdf)
