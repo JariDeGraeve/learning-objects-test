@@ -9,7 +9,7 @@
       "learningobject_id": "6113d50601e5042261805209",
       "language": "nl",
       "version": "1.1",
-      "startnode": true,
+      "start_node": true,
       "transitions": [
         {
           "default": true,
