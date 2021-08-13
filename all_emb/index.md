@@ -47,6 +47,13 @@ skos_concepts: [
 
 [link](@learning-object/61162bc660eac2f339c606ef "dit is een leerobject")
 
+# link afbeelding
+
+[afbeelding](dwengo_logo.png "dit is een afbeelding")
+
+# afbeelding
+
+![afbeelding](dwengo_logo.png "dit is een afbeelding")
 
 # yt
 
