@@ -32,5 +32,5 @@ skos_concepts: [
 
 # Allernieuwste versie
 
-[pdf](/pdfs/ver/vergadering.pdf "dit is een pdf")
+[pdf](pdfs/ver/vergadering.pdf "dit is een pdf")
 ![](@pdf/pdfs/ver/vergadering.pdf)
