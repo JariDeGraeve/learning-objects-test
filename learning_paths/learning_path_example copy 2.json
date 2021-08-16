@@ -24,12 +24,12 @@
       "transitions": [
         {
           "default": true,
-          "next": "611a3022905be863d776b9e2"
+          "next": "611a4b0c06e98f7d230cd48f"
         }
       ]
     },
     {
-      "learningobject_id": "611a3022905be863d776b9e2",
+      "learningobject_id": "611a4b0c06e98f7d230cd48f",
       "language": "nl",
       "version": "2.5"
     }
