@@ -13,12 +13,12 @@
       "transitions": [
         {
           "default": true,
-          "next": "611a3022905be863d776b9f6"
+          "next": "611a4148108dd26c7d1118b8"
         }
       ]
     },
     {
-      "learningobject_id": "611a3022905be863d776b9f6",
+      "learningobject_id": "611a4148108dd26c7d1118b8",
       "language": "nl",
       "version": "2.1",
       "transitions": [
