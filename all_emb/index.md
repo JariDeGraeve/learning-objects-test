@@ -45,11 +45,15 @@ skos_concepts: [
 
 # link leerobj
 
-[link](@learning-object/61162e46d19f17f43214e3ba "dit is een leerobject")
+[link](@learning-object/611a3022905be863d776ba02 "dit is een leerobject")
 
 # link afbeelding
 
 [afbeelding](dwengo_logo.png "dit is een afbeelding")
+
+# link blocks
+
+[Download](@blockly/blocks.xml "download deze blocks")
 
 # afbeelding
 
@@ -78,6 +82,6 @@ skos_concepts: [
 
 
 # leerobj
-![](@learning-object/61162e46d19f17f43214e3ba )
+![](@learning-object/611a3022905be863d776ba02 )
 
 
