@@ -22,7 +22,7 @@
       ]
     },
     {
-      "learningobject_id": "bouwen_van_een_tekenrobot",
+      "learningobject_hruid": "bouwen_van_een_tekenrobot",
       "language": "nl",
       "version": "1",
       "transitions": [
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "learningobject_id": "test-v1",
+      "learningobject_hruid": "test-v1",
       "language": "nl",
       "version": "3"
     }
