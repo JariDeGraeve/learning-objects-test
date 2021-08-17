@@ -45,7 +45,7 @@ skos_concepts: [
 
 # link leerobj
 
-[link](@learning-object/611a3022905be863d776ba02 "dit is een leerobject")
+[link](@learning-object/opdracht_leds/nl/1 "dit is een leerobject")
 
 # link afbeelding
 
@@ -82,6 +82,6 @@ skos_concepts: [
 
 
 # leerobj
-![](@learning-object/611a3022905be863d776ba02 )
+![](@learning-object/opdracht_leds/nl/1 )
 
 
