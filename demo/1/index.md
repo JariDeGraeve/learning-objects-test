@@ -1,8 +1,8 @@
 ---
 hruid: opdracht_leds
-version: 1
+version: 2
 language: nl
-title: Opdracht Ledssssssss
+title: Opdracht Leds 2
 description: Opdracht Leds
 keywords: [voorbeeld, voorbeeld2]
 educational_goals: [
@@ -29,7 +29,7 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
-Dis is updated ye
+versie 2
 ## Opdracht 3.1
 
 * Voer deze code in:
