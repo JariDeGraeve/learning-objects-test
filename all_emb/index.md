@@ -2,7 +2,7 @@
 hruid: test-v1
 version: 3
 language: nl
-title: This is a title
+title: This is a titleeeee
 description: This is a description
 keywords: [voorbeeld, voorbeeld2]
 educational_goals: [
@@ -30,7 +30,7 @@ skos_concepts: [
 ]
 teacher_exclusive: true
 ---
-
+updated
 # link pdf
 
 [Vergadering pdf!](vergadering.pdf)
