@@ -2,7 +2,7 @@
 hruid: opdracht_leds
 version: 1
 language: nl
-title: Opdracht Leds
+title: Opdracht Ledssssssss
 description: Opdracht Leds
 keywords: [voorbeeld, voorbeeld2]
 educational_goals: [
