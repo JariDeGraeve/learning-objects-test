@@ -62,7 +62,7 @@ updated
 
 # yt
 
-![](@youtube/https://www.youtube.com/embed/ANJ9JLV4IPg)
+![](@youtube/https://www.youtube.com/watch?v=ANJ9JLV4IPg)
 
 # pdf
 
